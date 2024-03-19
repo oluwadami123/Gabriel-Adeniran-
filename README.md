@@ -1,16 +1,15 @@
-### Hi there 👋
+ Hello i'm Gabriel👋,
+ Welcome to my Github profile! i'm a problem-solving data analyst adept in Python, Excel, Sql, and Tabuleau.Experienced in tackling complex business problems through data-driven insights  
+🔭 I’m currently working on developing a data visualization dashboard using Tableau to analyze sales trends.
 
-<!--
-**oluwadami123/oluwadami123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning advanced machine learning techniques, particularly deep learning algorithms, to enhance my predictive modeling skills.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on projects related to financial data analysis, where I can leverage my expertise in Python, Excel, SQL, and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about data visualization best practices, Python libraries for data analysis, or techniques for optimizing SQL queries.
+
+📫 How to reach me: Feel free to connect with me via email at [damilaregabz12@gmail.com](mailto:damilaregabz12@gmail.com).
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy exploring new datasets and discovering interesting insights, like uncovering correlations between seemingly unrelated variables.
