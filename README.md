@@ -1,8 +1,6 @@
  Hello i'm Gabriel👋,
 
  Welcome to my Github profile! I'm a problem-solving data analyst adept in Python, Excel, Sql, and Tableau. Experienced in tackling complex business problems through data-driven insights  
-🔭 I’m currently working on developing a data visualization dashboard using Tableau to analyze sales trends.
-
 🌱 I’m currently learning advanced machine learning techniques, particularly deep learning algorithms, to enhance my predictive modeling skills.
 
 👯 I’m looking to collaborate on projects related to financial data analysis, where I can leverage my expertise in Python, Excel, SQL, and Tableau.
