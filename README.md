@@ -2,11 +2,11 @@
 
 🌱 I’m currently learning advanced machine learning techniques, particularly deep learning algorithms, to enhance my predictive modeling skills.
 
-👯 I’m looking to collaborate on projects related to financial data analysis, where I can leverage my expertise in Python, Excel, SQL, and Tableau.
+👯 I’m looking to collaborate on projects related to financial data analysis and sales analysis, where I can leverage my expertise in Python, Excel, SQL, and Tableau.
 
 💬 Ask me about data visualization best practices, Python libraries for data analysis, or techniques for optimizing SQL queries.
 
-📫 How to reach me: Feel free to connect with me via email at [damilaregabz12@gmail.com](mailto:damilaregabz12@gmail.com).
+📫 How to reach me: Feel free to connect with me via linkedin [Gabriel Adeniran](https://www.linkedin.com/in/gabriel04/) or email at [damilaregabz12@gmail.com](mailto:damilaregabz12@gmail.com).
 
 😄 Pronouns: He/Him
 
